@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Java, JavaScript, MySql and React.
 - 📖 I'm fluent in english but unfortunaly i dont have much practice time, but in my linkedin page you can see my certificate to prove it.
 - 📫 How to reach me: pedrohenrique.cn07@gmail.com
-- ⚡ Fun fact: I am a member of the Presbyterian Church of Brazil (IPB) and i really like music, to the point i sing in two choirs and i know how to play piano and ukulele.
+- ⚡ Fun fact: I am a member of the Presbyterian Church of Brazil (IPB or Igreja presbiteriana do Brasil) and i really like music, to the point i sing in two choirs and i know how to play piano and ukulele.
 - My linkedin page: https://www.linkedin.com/in/pedrohenriquecn07/
