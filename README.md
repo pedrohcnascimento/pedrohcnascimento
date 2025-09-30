@@ -1,7 +1,15 @@
-- 👋 Hello! My name is Pedro Henrique and i am from Brazil.
-- 👀 I’m interested in working with programming, especially back-end.
-- 🌱 I’m currently learning Java, JavaScript, MySql and React.
-- 📖 I'm fluent in english but unfortunaly i dont have much practice time, but in my linkedin page you can see my certificate to prove it.
-- 📫 How to reach me: pedrohenrique.cn07@gmail.com
-- ⚡ Fun fact: I am a member of the Presbyterian Church of Brazil (IPB or Igreja presbiteriana do Brasil) and i really like music, to the point i sing in two choirs and i know how to play piano and ukulele.
-- My linkedin page: https://www.linkedin.com/in/pedrohenriquecn07/
+👋 Hello! My name is Pedro Henrique and I am from Brazil.
+
+👀 Interested in working with programming, preferably back-end, but open to front-end too.
+
+🌱 Programming Languages: [Java], JavaScript, MySQL, C++, Python, HTML5, CSS, TypeScript
+🎨 Front-end Frameworks: React, Vue/Vite
+⚙️ Productivity Tools: Microsoft Copilot, Office Suite, Power BI (Power Query & DAX)
+📖 Fluent in English (certificate available on my LinkedIn
+)
+
+📫 Reach me at: pedrohenrique.cn07@gmail.com or [LinkedIn](https://www.linkedin.com/in/pedrohenriquecn07/)
+
+🎶 Fun fact: I’m a member of the Presbyterian Church of Brazil (IPB), sing in two choirs, and play piano and ukulele
+
+📊 [GitHub Stats]
