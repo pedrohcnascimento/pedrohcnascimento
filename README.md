@@ -10,5 +10,3 @@
 📫 Reach me at: pedrohenrique.cn07@gmail.com or [LinkedIn](https://www.linkedin.com/in/pedrohenriquecn07/)
 
 🎶 Fun fact: I’m a member of the Presbyterian Church of Brazil (IPB); my favorite hobby is probably music, right now i sing in one choirs,play piano, ukulele and i am studying musical theory at my free time.
-
-📊 GitHub Stats
