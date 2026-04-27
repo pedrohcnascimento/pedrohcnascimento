@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! My name is Pedro Henrique and I am from Brazil.<br><br>👀 Interested in working with programming, preferably back-end, but open to front-end too.<br><br>⚙️ Productivity Tools: Microsoft Copilot, Office Suite, Power BI (Power Query & DAX)<br>📖 Fluent in English (certificate available on my LinkedIn)<br><br>📫 Reach me at: pedrohenrique.cn07@gmail.com or [LinkedIn](https://www.linkedin.com/in/pedrohenriquecn07/)<br><br>🎶 Fun facts: I’m a member of the Presbyterian Church of Brazil (IPB); my favorite hobby is probably music, right now i sing in one choirs,play piano, ukulele and i am studying musical theory at my free time.<br>
+👋 Hello! My name is Pedro Henrique and I am from Brazil.<br><br>👀 Interested in working with programming, preferably back-end, but open to front-end too.<br><br>⚙️ Productivity Tools: Microsoft Copilot, Office Suite, Power BI (Power Query & DAX)<br>📖 Fluent in English (certificate available on my LinkedIn)<br><br>📫 Reach me at: pedrohenrique.cn07@gmail.com [LinkedIn](https://www.linkedin.com/in/pedrohenriquecn07/) or +55 (11) 96276-3456 <br><br>🎶 Fun facts: I’m a member of the Presbyterian Church of Brazil (IPB); my favorite hobby is probably music, right now i sing in one choirs,play piano, ukulele and i am studying musical theory at my free time.<br>
 
 
 ## 🌐 Socials:
