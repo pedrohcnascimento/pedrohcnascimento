@@ -78,7 +78,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohcnascimento&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=pedrohcnascimento&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
